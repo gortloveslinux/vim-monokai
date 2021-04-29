@@ -129,7 +129,7 @@ call s:h("CursorLineNr",  { "fg": s:orange,     "bg": s:lightblack })
 call s:h("SignColumn",    {                     "bg": s:lightblack })
 
 " statusline
-call s:h("StatusLine",    { "fg": s:black,      "bg": s:lightgrey })
+call s:h("StatusLine",    { "fg": s:grey,      "bg": s:lightgrey })
 call s:h("StatusLineNC",  { "fg": s:lightgrey,  "bg": s:black })
 call s:h("TabLine",       { "fg": s:lightgrey,  "bg": s:lightblack })
 call s:h("TabLineSel",    { "fg": s:darkblack,  "bg": s:warmgrey,     "format": "bold" })
